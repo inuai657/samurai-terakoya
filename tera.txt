@@ -1,2 +1,3 @@
 tera
 tera
+git commit --amend
